@@ -36,6 +36,7 @@
 
 // Solutions
 
+package solutionsinJava;
 import java.util.Scanner;
      
 public class Drinks200B{
